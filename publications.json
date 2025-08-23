@@ -2,8 +2,14 @@
     {
         "title": "Development of Intelligent Student Information System",
         "year": 2025,
-        "citations": 3,
+        "citations": 4,
         "link": "https://www.academia.edu/download/123152988/7451.pdf"
+    },
+    {
+        "title": "Development of Intelligent Library Services for University Students",
+        "year": 2025,
+        "citations": 3,
+        "link": "https://www.academia.edu/download/122550287/7299.pdf"
     },
     {
         "title": "NAMAQ-Arabic Handwriting Recognition Using Deep Learning, AI, and ML with Sentiment Analysis",
@@ -12,46 +18,34 @@
         "link": "https://ieeexplore.ieee.org/abstract/document/10989445/"
     },
     {
-        "title": "Development of Intelligent Library Services for University Students",
+        "title": "Innovation in teaching and learning with the use of modern computational tools: A Post Covid experience",
         "year": 2025,
-        "citations": 2,
-        "link": "https://www.academia.edu/download/122550287/7299.pdf"
+        "citations": 1,
+        "link": "https://mejast.com/data/uploads/25408.pdf"
     },
     {
-        "title": "Network Intrusion Management of Web Form Spamming using Blockchain",
+        "title": "Living Smart: AI-Based Urban Assistance Systems for Sustainable Wellbeing in Small Cities",
         "year": 2025,
-        "citations": 0,
-        "link": "#"
-    },
-    {
-        "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
-        "year": 2025,
-        "citations": 0,
-        "link": "#"
+        "citations": 1,
+        "link": "https://mejast.com/data/uploads/25410.pdf"
     },
     {
         "title": "Statistical probability prediction model for E-Learning and realtime proctoring using IoT devices",
         "year": 2025,
         "citations": 0,
-        "link": "#"
+        "link": "https://jksus.org/statistical-probability-prediction-model-for-e-learning-and-realtime-proctoring-using-iot-devices/"
+    },
+    {
+        "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
+        "year": 2025,
+        "citations": 0,
+        "link": "https://iijsr.com/data/uploads/50591.pdf"
     },
     {
         "title": "An Application of Machine Learning, Big Data and IoT of Enterprise Architecture: Challenges, Solutions and Open Issues",
         "year": 2025,
         "citations": 0,
         "link": "https://www.intechopen.com/online-first/1212262"
-    },
-    {
-        "title": "Innovation in teaching and learning with the use of modern computational tools: A Post Covid experience",
-        "year": 2025,
-        "citations": 0,
-        "link": "https://mejast.com/data/uploads/25408.pdf"
-    },
-    {
-        "title": "Living Smart: AI-Based Urban Assistance Systems for Sustainable Wellbeing in Small Cities",
-        "year": 2025,
-        "citations": 0,
-        "link": "https://mejast.com/data/uploads/25410.pdf"
     },
     {
         "title": "Complexities and Challenges for Securing Digital Assets and Infrastructure in Academia: A Review on Digital Asset Security",
@@ -66,34 +60,34 @@
         "link": "https://peerj.com/articles/cs-1778/"
     },
     {
-        "title": "An iomt enabled iterative artificial bee colony approach using federated learning for detection of heart disease",
-        "year": 2024,
-        "citations": 5,
-        "link": "https://link.springer.com/chapter/10.1007/978-981-97-7344-2_6"
-    },
-    {
         "title": "Integrating Artificial Bee Colony Algorithms for Deep Learning Model Optimization: A Comprehensive Review",
         "year": 2024,
-        "citations": 4,
+        "citations": 6,
         "link": "https://link.springer.com/chapter/10.1007/978-981-97-7344-2_5"
+    },
+    {
+        "title": "An iomt enabled iterative artificial bee colony approach using federated learning for detection of heart disease",
+        "year": 2024,
+        "citations": 6,
+        "link": "https://link.springer.com/chapter/10.1007/978-981-97-7344-2_6"
     },
     {
         "title": "Development of Intelligent Pick and Drop Service Manager for Small Cities",
         "year": 2024,
-        "citations": 4,
+        "citations": 5,
         "link": "https://www.academia.edu/download/117504037/4753.pdf"
     },
     {
         "title": "Development of Intelligent Help System for Small Cities",
         "year": 2024,
-        "citations": 2,
+        "citations": 3,
         "link": "https://www.ajast.net/data/uploads/68131.pdf"
     },
     {
         "title": "Colony Approach Using Federated Learning for Detection of Heart Disease",
         "year": 2024,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=SMY0EQAAQBAJ&oi=fnd&pg=PA103&dq=info:N6vZB4oWLR0J:scholar.google.com&ots=OaMprPZkNH&sig=yZUaDxbDe0HkDUjPMfNi7biR2sM"
+        "link": "https://books.google.com/books?hl=en&lr=&id=SMY0EQAAQBAJ&oi=fnd&pg=PA103&dq=info:N6vZB4oWLR0J:scholar.google.com&ots=OaMqlKUpIK&sig=XJ6q_Op5zXuQfaLy3k5xrKI41tI"
     },
     {
         "title": "Solving with Bees",
@@ -104,7 +98,7 @@
     {
         "title": "Systematic Survey on Big Data Analytics and Artificial Intelligence for COVID-19 Containment.",
         "year": 2023,
-        "citations": 8,
+        "citations": 9,
         "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=02676192&AN=169779878&h=SkVh07JMZGBnCu%2Fvt6YpezGSC8jYMTKZoZV%2FSvyo4p%2FaCjMSq1e9haxWQx3iRTcvVelq7S5M9KPTAqrFCGm1Ug%3D%3D&crl=c"
     },
     {
@@ -116,7 +110,7 @@
     {
         "title": "An Empirical Study on the Future of Publication Repositories and Its Adaptability in Public universities—A Case Study of Shaqra University, Saudi Arabia",
         "year": 2023,
-        "citations": 3,
+        "citations": 4,
         "link": "https://link.springer.com/chapter/10.1007/978-981-19-7346-8_71"
     },
     {
@@ -146,7 +140,7 @@
     {
         "title": "Enabling blockchain with IoMT devices for healthcare",
         "year": 2022,
-        "citations": 62,
+        "citations": 63,
         "link": "https://www.mdpi.com/2078-2489/13/10/448"
     },
     {
@@ -170,7 +164,7 @@
     {
         "title": "Development of an artificially intelligent advising system for Saudi medical transcription",
         "year": 2022,
-        "citations": 7,
+        "citations": 8,
         "link": "https://iijsr.com/data/uploads/94796.pdf"
     },
     {
@@ -182,7 +176,7 @@
     {
         "title": "Development of intelligent alumni management system for universities",
         "year": 2021,
-        "citations": 15,
+        "citations": 16,
         "link": "https://www.academia.edu/download/68080363/77626_1_.pdf"
     },
     {
@@ -192,22 +186,28 @@
         "link": "https://ieeexplore.ieee.org/abstract/document/9410801/"
     },
     {
+        "title": "Development of Medidrone: a drone based emergency service system for Saudi Arabian Healthcare",
+        "year": 2021,
+        "citations": 13,
+        "link": "https://ieeexplore.ieee.org/abstract/document/9410685/"
+    },
+    {
+        "title": "Zigbee technology to provide elderly people with well-being at home",
+        "year": 2021,
+        "citations": 12,
+        "link": "https://www.benthamdirect.com/content/journals/swcc/10.2174/2210327911666210201105206"
+    },
+    {
         "title": "Artificially intelligent warehouse management system",
         "year": 2021,
         "citations": 12,
         "link": "https://ajbsr.net/data/uploads/7842.pdf"
     },
     {
-        "title": "Zigbee technology to provide elderly people with well-being at home",
+        "title": "Development of mubadarah system-an intelligent system for proposals at a university",
         "year": 2021,
-        "citations": 11,
-        "link": "https://www.benthamdirect.com/content/journals/swcc/10.2174/2210327911666210201105206"
-    },
-    {
-        "title": "Development of Medidrone: a drone based emergency service system for Saudi Arabian Healthcare",
-        "year": 2021,
-        "citations": 11,
-        "link": "https://ieeexplore.ieee.org/abstract/document/9410685/"
+        "citations": 8,
+        "link": "https://ieeexplore.ieee.org/abstract/document/9410773/"
     },
     {
         "title": "Smart University Model for Saudi Arabian Universities",
@@ -216,22 +216,16 @@
         "link": "https://scholar.google.com/scholar?cluster=3850501881729762043&hl=en&oi=scholarr"
     },
     {
-        "title": "Development of mubadarah system-an intelligent system for proposals at a university",
+        "title": "An empirical analysis on users’ acceptance and usage of BYOD-technology for saudi universities: a case study of Shaqra University",
         "year": 2021,
-        "citations": 7,
-        "link": "https://ieeexplore.ieee.org/abstract/document/9410773/"
+        "citations": 6,
+        "link": "https://ieeexplore.ieee.org/abstract/document/9673287/"
     },
     {
         "title": "Measuring Academics Intentions to use a Project Management System (PMS): A Case Study of the College of Computing and Information Technology, Shaqra University",
         "year": 2021,
         "citations": 6,
         "link": "https://www.benthamdirect.com/content/books/9789814998451.chapter-6"
-    },
-    {
-        "title": "An empirical analysis on users’ acceptance and usage of BYOD-technology for saudi universities: a case study of Shaqra University",
-        "year": 2021,
-        "citations": 5,
-        "link": "https://ieeexplore.ieee.org/abstract/document/9673287/"
     },
     {
         "title": "SL. No. TITLE PAGE NO.",
@@ -242,31 +236,31 @@
     {
         "title": "Internet of Things (IOT) Based Educational Data Mining (EDM) System",
         "year": 2020,
-        "citations": 2,
+        "citations": 3,
         "link": "http://jmcms.s3.amazonaws.com/wp-content/uploads/2020/03/24093749/22-INTERNET-OF-THINGS-ICMTRM-2-R.pdf"
     },
     {
         "title": "Intrusion management to avoid web-form spamming in cloud based architectures",
         "year": 2019,
-        "citations": 6,
+        "citations": 7,
         "link": "https://ieeexplore.ieee.org/abstract/document/9004302/"
     },
     {
         "title": "Prevention of web-form spamming for cloud based applications: a proposed model",
         "year": 2019,
-        "citations": 6,
+        "citations": 7,
         "link": "https://ieeexplore.ieee.org/abstract/document/8701302/"
     },
     {
         "title": "Security management protocols in cloud computation",
         "year": 2019,
-        "citations": 5,
+        "citations": 6,
         "link": "https://mejast.com/data/uploads/pdf/2003.pdf"
     },
     {
         "title": "Wireless Requirements and Benefits in the Academics Domain",
         "year": 2019,
-        "citations": 3,
+        "citations": 4,
         "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446355"
     },
     {
@@ -278,7 +272,7 @@
     {
         "title": "Development of Web Based E-Cooperative Training System",
         "year": 2018,
-        "citations": 9,
+        "citations": 10,
         "link": "https://ieeexplore.ieee.org/abstract/document/8538367/"
     },
     {
