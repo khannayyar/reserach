@@ -54,12 +54,6 @@
         "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423517"
     },
     {
-        "title": "AI-driven Blockchain Framework for Digital Transformation of Academic Accreditation Process: A Saudi Arabian Perspective",
-        "year": 2025,
-        "citations": 0,
-        "link": "https://iijsr.com/data/uploads/79384.pdf"
-    },
-    {
         "title": "Transformative Impact of Artificial Intelligence on Higher Education: A Comprehensive Analysis of Pedagogical Innovation, Institutional Transformation, and Future Learning Ecosystems",
         "year": 2025,
         "citations": 0,
@@ -70,6 +64,12 @@
         "year": 2025,
         "citations": 0,
         "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5428214"
+    },
+    {
+        "title": "AI-driven Blockchain Framework for Digital Transformation of Academic Accreditation Process: A Saudi Arabian Perspective",
+        "year": 2025,
+        "citations": 0,
+        "link": "https://iijsr.com/data/uploads/79384.pdf"
     },
     {
         "title": "Blockchain-Enabled Federated Learning Framework for Secure and Collaborative Drug Discovery: Integrating AI, Molecular Docking, and Distributed Ledger Technology",
@@ -111,7 +111,7 @@
         "title": "Colony Approach Using Federated Learning for Detection of Heart Disease",
         "year": 2024,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=SMY0EQAAQBAJ&oi=fnd&pg=PA103&dq=info:N6vZB4oWLR0J:scholar.google.com&ots=OaNpoNWjNP&sig=Y3cIISfM3ow-3Mm1jCqXtCLMF8s"
+        "link": "https://books.google.com/books?hl=en&lr=&id=SMY0EQAAQBAJ&oi=fnd&pg=PA103&dq=info:N6vZB4oWLR0J:scholar.google.com&ots=OaNprJVmMP&sig=vU-vMHo5p-Setdow-fOf45B8Y8A"
     },
     {
         "title": "Solving with Bees",
