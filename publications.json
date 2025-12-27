@@ -6,6 +6,12 @@
         "link": "https://www.academia.edu/download/123152988/7451.pdf"
     },
     {
+        "title": "NAMAQ-Arabic Handwriting Recognition Using Deep Learning, AI, and ML with Sentiment Analysis",
+        "year": 2025,
+        "citations": 7,
+        "link": "https://ieeexplore.ieee.org/abstract/document/10989445/"
+    },
+    {
         "title": "Development of Intelligent Library Services for University Students",
         "year": 2025,
         "citations": 7,
@@ -16,12 +22,6 @@
         "year": 2025,
         "citations": 6,
         "link": "https://www.intechopen.com/online-first/1212262"
-    },
-    {
-        "title": "NAMAQ-Arabic Handwriting Recognition Using Deep Learning, AI, and ML with Sentiment Analysis",
-        "year": 2025,
-        "citations": 6,
-        "link": "https://ieeexplore.ieee.org/abstract/document/10989445/"
     },
     {
         "title": "Innovation in teaching and learning with the use of modern computational tools: A Post Covid experience",
@@ -57,7 +57,7 @@
         "title": "Transformative Impact of Artificial Intelligence on Higher Education: A Comprehensive Analysis of Pedagogical Innovation, Institutional Transformation, and Future Learning Ecosystems",
         "year": 2025,
         "citations": 0,
-        "link": "https://ajast.net/data/uploads/85135.pdf"
+        "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5782362"
     },
     {
         "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
@@ -111,7 +111,7 @@
         "title": "Colony Approach Using Federated Learning for Detection of Heart Disease",
         "year": 2024,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=SMY0EQAAQBAJ&oi=fnd&pg=PA103&dq=info:N6vZB4oWLR0J:scholar.google.com&ots=OaNqtKViMM&sig=1IrfmOnLiZeQ7e5G9lOXGZVpXHw"
+        "link": "https://books.google.com/books?hl=en&lr=&id=SMY0EQAAQBAJ&oi=fnd&pg=PA103&dq=info:N6vZB4oWLR0J:scholar.google.com&ots=OaNquJRmLM&sig=PPap8BczMmPHtiA5Z3YoS3VW1do"
     },
     {
         "title": "Solving with Bees",
