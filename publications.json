@@ -1,6 +1,6 @@
 [
     {
-        "title": "NAMAQ-Arabic Handwriting Recognition Using Deep Learning, AI, and ML with Sentiment Analysis",
+        "title": "NAMAQ-Arabic handwriting recognition using deep learning, AI, and ML with sentiment analysis",
         "year": 2025,
         "citations": 8,
         "link": "https://ieeexplore.ieee.org/abstract/document/10989445/"
@@ -9,7 +9,7 @@
         "title": "Development of Intelligent Student Information System",
         "year": 2025,
         "citations": 8,
-        "link": "https://www.academia.edu/download/123152988/7451.pdf"
+        "link": "https://www.researchgate.net/profile/Mohammad-Ahmed-114/publication/389345824_Development_of_Intelligent_Student_Information_System/links/693447657e61d05b530c502c/Development-of-Intelligent-Student-Information-System.pdf"
     },
     {
         "title": "Development of Intelligent Library Services for University Students",
@@ -21,7 +21,7 @@
         "title": "An Application of Machine Learning, Big Data and IoT of Enterprise Architecture: Challenges, Solutions and Open Issues",
         "year": 2025,
         "citations": 6,
-        "link": "https://www.intechopen.com/online-first/1212262"
+        "link": "https://www.intechopen.com/chapters/1212262"
     },
     {
         "title": "Innovation in teaching and learning with the use of modern computational tools: A Post Covid experience",
@@ -69,7 +69,7 @@
         "title": "An Application of Machine Learning, Big Data, and IoT of Enterprise Architecture: Challenges",
         "year": 2025,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLsK0OdGzQ&sig=pPVqhR0XRa1x0GKioyaE_Ci4y1g"
+        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLsK3TbCyP&sig=NgWoG7t_gGXAYxBIiIAjLYGfOTg"
     },
     {
         "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
@@ -92,11 +92,11 @@
     {
         "title": "A comprehensive secure system enabling healthcare 5.0 using federated learning, intrusion detection and blockchain",
         "year": 2024,
-        "citations": 35,
+        "citations": 36,
         "link": "https://peerj.com/articles/cs-1778/"
     },
     {
-        "title": "Integrating Artificial Bee Colony Algorithms for Deep Learning Model Optimization: A Comprehensive Review",
+        "title": "Integrating artificial bee colony algorithms for deep learning model optimization: a comprehensive review",
         "year": 2024,
         "citations": 16,
         "link": "https://link.springer.com/chapter/10.1007/978-981-97-7344-2_5"
@@ -120,12 +120,6 @@
         "link": "https://www.ajast.net/data/uploads/68131.pdf"
     },
     {
-        "title": "Colony Approach Using Federated Learning for Detection of Heart Disease",
-        "year": 2024,
-        "citations": 1,
-        "link": "https://books.google.com/books?hl=en&lr=&id=SMY0EQAAQBAJ&oi=fnd&pg=PA103&dq=info:N6vZB4oWLR0J:scholar.google.com&ots=OaOlmMWkLJ&sig=N6hUEn9ZgL_LK3KSwBcFyoB0xos"
-    },
-    {
         "title": "Solving with Bees",
         "year": 2024,
         "citations": 0,
@@ -134,11 +128,11 @@
     {
         "title": "Systematic Survey on Big Data Analytics and Artificial Intelligence for COVID-19 Containment.",
         "year": 2023,
-        "citations": 17,
-        "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=02676192&AN=169779878&h=SkVh07JMZGBnCu%2Fvt6YpezGSC8jYMTKZoZV%2FSvyo4p%2FaCjMSq1e9haxWQx3iRTcvVelq7S5M9KPTAqrFCGm1Ug%3D%3D&crl=c"
+        "citations": 16,
+        "link": "https://pdfs.semanticscholar.org/432d/7edef2ac40859f0e02629fc0eb1b178825e9.pdf"
     },
     {
-        "title": "An Empirical Study on the Future of Publication Repositories and Its Adaptability in Public universities—A Case Study of Shaqra University, Saudi Arabia",
+        "title": "An empirical study on the future of publication repositories and its adaptability in public universities—A Case Study of Shaqra University, Saudi Arabia",
         "year": 2023,
         "citations": 10,
         "link": "https://link.springer.com/chapter/10.1007/978-981-19-7346-8_71"
@@ -176,7 +170,7 @@
     {
         "title": "Enabling blockchain with IoMT devices for healthcare",
         "year": 2022,
-        "citations": 76,
+        "citations": 75,
         "link": "https://www.mdpi.com/2078-2489/13/10/448"
     },
     {
@@ -200,11 +194,11 @@
     {
         "title": "Computational intelligence",
         "year": 2022,
-        "citations": 11,
+        "citations": 12,
         "link": "https://link.springer.com/content/pdf/10.1007/978-981-19-7346-8.pdf"
     },
     {
-        "title": "Developing a blockchain-based digitally secured model for the educational sector in Saudi Arabia toward digital transformation. PeerJ, 8, e1120–e1120",
+        "title": "Developing a blockchain-based digitally secured model for the educational sector in Saudi Arabia toward digital transformation. PeerJ Computer Science, 8: e1120",
         "year": 2022,
         "citations": 9,
         "link": "https://scholar.google.com/scholar?cluster=5427075502810586005&hl=en&oi=scholarr"
@@ -218,7 +212,7 @@
     {
         "title": "Development of intelligent alumni management system for universities",
         "year": 2021,
-        "citations": 22,
+        "citations": 21,
         "link": "https://www.academia.edu/download/68080363/77626_1_.pdf"
     },
     {
@@ -242,7 +236,7 @@
     {
         "title": "Artificially intelligent warehouse management system",
         "year": 2021,
-        "citations": 16,
+        "citations": 15,
         "link": "https://ajbsr.net/data/uploads/7842.pdf"
     },
     {
@@ -252,9 +246,9 @@
         "link": "https://ieeexplore.ieee.org/abstract/document/9410773/"
     },
     {
-        "title": "An empirical analysis on users’ acceptance and usage of BYOD-technology for saudi universities: a case study of Shaqra University",
+        "title": "An empirical analysis on users’ acceptance and usage of BYOD-technology for Saudi universities: a case study of Shaqra University",
         "year": 2021,
-        "citations": 11,
+        "citations": 12,
         "link": "https://ieeexplore.ieee.org/abstract/document/9673287/"
     },
     {
@@ -296,7 +290,7 @@
     {
         "title": "Security management protocols in cloud computation",
         "year": 2019,
-        "citations": 9,
+        "citations": 8,
         "link": "https://mejast.com/data/uploads/pdf/2003.pdf"
     },
     {
@@ -320,7 +314,7 @@
     {
         "title": "Cloud applications development and deployment: The future of cost effective programming and a step ahead",
         "year": 2018,
-        "citations": 10,
+        "citations": 9,
         "link": "https://mejast.com/data/uploads/pdf/1006.pdf"
     },
     {
@@ -356,8 +350,14 @@
     {
         "title": "Simulation analysis of directed diffusion and SPIN routing protocol in wireless sensor network",
         "year": 2014,
-        "citations": 15,
+        "citations": 14,
         "link": "https://ieeexplore.ieee.org/abstract/document/7056990/"
+    },
+    {
+        "title": "A comprehensive secure system enabling healthcare 5.0 using federated learning, intrusion detection and blockchain. PeerJ Computer Science, 10: e1778",
+        "year": 1778,
+        "citations": 6,
+        "link": "https://scholar.google.com/scholar?cluster=9990779343671633669&hl=en&oi=scholarr"
     },
     {
         "title": "Research Article Design and Verification of Cache Coherence Protocol",
