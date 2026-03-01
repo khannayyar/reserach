@@ -69,7 +69,7 @@
         "title": "An Application of Machine Learning, Big Data, and IoT of Enterprise Architecture: Challenges",
         "year": 2025,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLsK4RhFAR&sig=BDzN7t6NL4zdaPzBge9GclBRP4w"
+        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLsL3O9ICM&sig=JNvtntUYUAjpELjb0-r88IrXd5I"
     },
     {
         "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
@@ -92,7 +92,7 @@
     {
         "title": "A comprehensive secure system enabling healthcare 5.0 using federated learning, intrusion detection and blockchain",
         "year": 2024,
-        "citations": 36,
+        "citations": 37,
         "link": "https://peerj.com/articles/cs-1778/"
     },
     {
@@ -170,13 +170,13 @@
     {
         "title": "Enabling blockchain with IoMT devices for healthcare",
         "year": 2022,
-        "citations": 75,
+        "citations": 76,
         "link": "https://www.mdpi.com/2078-2489/13/10/448"
     },
     {
         "title": "URL Phishing Detection Using Particle Swarm Optimization and Data Mining.",
         "year": 2022,
-        "citations": 24,
+        "citations": 26,
         "link": "https://www.researchgate.net/profile/Saeed-Alshahrani-7/publication/366987548_URL_Phishing_Detection_Using_Particle_Swarm_Optimization_and_Data_Mining/links/63bd3eec097c7832caa6a4b9/URL-Phishing-Detection-Using-Particle-Swarm-Optimization-and-Data-Mining.pdf"
     },
     {
@@ -216,16 +216,16 @@
         "link": "https://www.academia.edu/download/68080363/77626_1_.pdf"
     },
     {
+        "title": "Development of Medidrone: a drone based emergency service system for Saudi Arabian Healthcare",
+        "year": 2021,
+        "citations": 19,
+        "link": "https://ieeexplore.ieee.org/abstract/document/9410685/"
+    },
+    {
         "title": "COVIBOT-An intelligent WhatsApp based advising bot for Covid-19",
         "year": 2021,
         "citations": 19,
         "link": "https://ieeexplore.ieee.org/abstract/document/9410801/"
-    },
-    {
-        "title": "Development of Medidrone: a drone based emergency service system for Saudi Arabian Healthcare",
-        "year": 2021,
-        "citations": 18,
-        "link": "https://ieeexplore.ieee.org/abstract/document/9410685/"
     },
     {
         "title": "Zigbee technology to provide elderly people with well-being at home",
