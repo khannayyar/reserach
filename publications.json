@@ -1,5 +1,29 @@
 [
     {
+        "title": "Chapter 15 - Revolutionizing drug design: the convergence of AI and quantum computing - A systematic review",
+        "year": 2026,
+        "citations": 0,
+        "link": "#"
+    },
+    {
+        "title": "Chapter 21 - Explainable AI for structure-based drug design: Concepts and case studies",
+        "year": 2026,
+        "citations": 0,
+        "link": "#"
+    },
+    {
+        "title": "A Cloud-Based Multi-Tier Approval System for Academic Course Registration: Design, Implementation, and Evaluations",
+        "year": 2026,
+        "citations": 0,
+        "link": "#"
+    },
+    {
+        "title": "Serverless Absence Management: A Google-Native Playbook for Rapid, Auditable University Leave Workflows",
+        "year": 2026,
+        "citations": 0,
+        "link": "#"
+    },
+    {
         "title": "NAMAQ-Arabic handwriting recognition using deep learning, AI, and ML with sentiment analysis",
         "year": 2025,
         "citations": 8,
@@ -66,10 +90,16 @@
         "link": "https://ieeexplore.ieee.org/abstract/document/11325200/"
     },
     {
+        "title": "Enhancing Problem-Solving Skills through Modelling-Based AI and Generative Flow Networks (GFN)",
+        "year": 2025,
+        "citations": 0,
+        "link": "https://ieeexplore.ieee.org/abstract/document/11411593/"
+    },
+    {
         "title": "An Application of Machine Learning, Big Data, and IoT of Enterprise Architecture: Challenges",
         "year": 2025,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLsL4MgEzK&sig=JP6qt04TJ0VNiIuJyV-Pu7X67dY"
+        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLsM6O8FxR&sig=am22ZAP168ZUwj81cxUpa42SnNY"
     },
     {
         "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
@@ -92,7 +122,7 @@
     {
         "title": "A comprehensive secure system enabling healthcare 5.0 using federated learning, intrusion detection and blockchain",
         "year": 2024,
-        "citations": 37,
+        "citations": 40,
         "link": "https://peerj.com/articles/cs-1778/"
     },
     {
@@ -170,7 +200,7 @@
     {
         "title": "Enabling blockchain with IoMT devices for healthcare",
         "year": 2022,
-        "citations": 76,
+        "citations": 77,
         "link": "https://www.mdpi.com/2078-2489/13/10/448"
     },
     {
@@ -182,7 +212,7 @@
     {
         "title": "Developing a blockchain-based digitally secured model for the educational sector in Saudi Arabia toward digital transformation",
         "year": 2022,
-        "citations": 22,
+        "citations": 23,
         "link": "https://peerj.com/articles/cs-1120/"
     },
     {
@@ -262,6 +292,12 @@
         "year": 2021,
         "citations": 10,
         "link": "https://www.benthamdirect.com/content/books/9789814998451.chapter-6"
+    },
+    {
+        "title": "Advanced Computing Techniques: Implementation, Informatics and Emerging Technologies",
+        "year": 2021,
+        "citations": 1,
+        "link": "https://sciendo.com/2/v2/download/book/9789814998451.pdf?Token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6W3sic3ViIjoyNTY3ODUxNywicHVicmVmIjoiNzY0NDg4IiwibmFtZSI6Ikdvb2dsZSBHb29nbGVib3QgLSBXZWIgQ3Jhd2xlciBTRU8iLCJ0eXBlIjoiaW5zdGl0dXRpb24iLCJsb2dvdXRfbGluayI6Imh0dHBzOi8vY29ubmVjdC5saWJseW54LmNvbS9sb2dvdXQvNjdmNTJiZTA2OGUyMjEyYTY2OTMyNGVkMDNiZjczMjUiLCJhdXRoX21ldGhvZCI6ImlwIiwiaXAiOiI2Ni4yNDkuNzkuMTk0In1dLCJpYXQiOjE3NDQxMjI2NjUsImV4cCI6MTc0NTMzMjI2NX0.8z3Xi5SU6tqrxWdfcx0PUITmAuShUVWdW2XACgYdL9c"
     },
     {
         "title": "SL. No. TITLE PAGE NO.",
