@@ -1,21 +1,15 @@
 [
     {
-        "title": "Chapter 15 - Revolutionizing drug design: the convergence of AI and quantum computing - A systematic review",
-        "year": 2026,
-        "citations": 0,
-        "link": "#"
-    },
-    {
-        "title": "Chapter 21 - Explainable AI for structure-based drug design: Concepts and case studies",
-        "year": 2026,
-        "citations": 0,
-        "link": "#"
-    },
-    {
         "title": "A Cloud-Based Multi-Tier Approval System for Academic Course Registration: Design, Implementation, and Evaluations",
         "year": 2026,
         "citations": 0,
         "link": "#"
+    },
+    {
+        "title": "Explainable AI for structure-based drug design: Concepts and case studies",
+        "year": 2026,
+        "citations": 0,
+        "link": "https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443444302000104"
     },
     {
         "title": "Serverless Absence Management: A Google-Native Playbook for Rapid, Auditable University Leave Workflows",
@@ -117,7 +111,7 @@
         "title": "An Application of Machine Learning, Big Data, and IoT of Enterprise Architecture: Challenges",
         "year": 2025,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLsN4UbJDL&sig=cT4aHhJzZ4KmuuMxhK_1NWK8ZL4"
+        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLsN7QaKwQ&sig=v3lIu9acVsxL_9ZPLGTLQ5LHZqw"
     },
     {
         "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
