@@ -24,16 +24,16 @@
         "link": "https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443444302000086"
     },
     {
+        "title": "Development of Intelligent Student Information System",
+        "year": 2025,
+        "citations": 11,
+        "link": "https://www.researchgate.net/profile/Mohammad-Ahmed-114/publication/389345824_Development_of_Intelligent_Student_Information_System/links/693447657e61d05b530c502c/Development-of-Intelligent-Student-Information-System.pdf"
+    },
+    {
         "title": "NAMAQ-Arabic handwriting recognition using deep learning, AI, and ML with sentiment analysis",
         "year": 2025,
         "citations": 10,
         "link": "https://ieeexplore.ieee.org/abstract/document/10989445/"
-    },
-    {
-        "title": "Development of Intelligent Student Information System",
-        "year": 2025,
-        "citations": 10,
-        "link": "https://www.researchgate.net/profile/Mohammad-Ahmed-114/publication/389345824_Development_of_Intelligent_Student_Information_System/links/693447657e61d05b530c502c/Development-of-Intelligent-Student-Information-System.pdf"
     },
     {
         "title": "Development of Intelligent Library Services for University Students",
@@ -111,7 +111,7 @@
         "title": "An Application of Machine Learning, Big Data, and IoT of Enterprise Architecture: Challenges",
         "year": 2025,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLsR3TdDAT&sig=TcGcDWh666zbIje65TsmDmfvQuc"
+        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLsS-LbCzR&sig=FOvI-j3HKhgPaY7j0OW2ZpR_ZFg"
     },
     {
         "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
@@ -212,7 +212,7 @@
     {
         "title": "Developing a blockchain-based digitally secured model for the educational sector in Saudi Arabia toward digital transformation",
         "year": 2022,
-        "citations": 25,
+        "citations": 26,
         "link": "https://peerj.com/articles/cs-1120/"
     },
     {
