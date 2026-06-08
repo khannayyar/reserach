@@ -111,7 +111,7 @@
         "title": "An Application of Machine Learning, Big Data, and IoT of Enterprise Architecture: Challenges",
         "year": 2025,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLtJ3ShLCM&sig=ESA0iHvavAsMcEiNf-UbUo62PvY"
+        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLtJ8UhEyR&sig=50AN5i_7XzEUVdho_E3OxSr7SiQ"
     },
     {
         "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
@@ -122,7 +122,7 @@
     {
         "title": "A comprehensive secure system enabling healthcare 5.0 using federated learning, intrusion detection and blockchain",
         "year": 2024,
-        "citations": 47,
+        "citations": 48,
         "link": "https://peerj.com/articles/cs-1778/"
     },
     {
@@ -200,7 +200,7 @@
     {
         "title": "Enabling blockchain with IoMT devices for healthcare",
         "year": 2022,
-        "citations": 80,
+        "citations": 82,
         "link": "https://www.mdpi.com/2078-2489/13/10/448"
     },
     {
@@ -212,7 +212,7 @@
     {
         "title": "Developing a blockchain-based digitally secured model for the educational sector in Saudi Arabia toward digital transformation",
         "year": 2022,
-        "citations": 26,
+        "citations": 27,
         "link": "https://peerj.com/articles/cs-1120/"
     },
     {
@@ -396,16 +396,16 @@
         "link": "https://scholar.google.com/scholar?cluster=9990779343671633669&hl=en&oi=scholarr"
     },
     {
+        "title": "Cloud Computing: The Future of Cost Effective and Enterprise Friendly Computing",
+        "year": 0,
+        "citations": 1,
+        "link": "https://www.academia.edu/download/59450681/cloud-computing-the-future-of-cost-effective-and-enterprise-friendly-computing-IJERTV6IS12005220190530-125443-r3jb33.pdf"
+    },
+    {
         "title": "Research Article Design and Verification of Cache Coherence Protocol",
         "year": 0,
         "citations": 0,
         "link": "https://mejast.com/data/uploads/pdf/2001.pdf"
-    },
-    {
-        "title": "Cloud Computing: The Future of Cost Effective and Enterprise Friendly Computing",
-        "year": 0,
-        "citations": 0,
-        "link": "https://www.academia.edu/download/59450681/cloud-computing-the-future-of-cost-effective-and-enterprise-friendly-computing-IJERTV6IS12005220190530-125443-r3jb33.pdf"
     },
     {
         "title": "BLUEWEB SECURITY SYSTEM",
