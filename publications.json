@@ -111,7 +111,7 @@
         "title": "An Application of Machine Learning, Big Data, and IoT of Enterprise Architecture: Challenges",
         "year": 2025,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLtK4MbIxK&sig=bXI5epa8qD-Htnc6XPIBqx2VTRA"
+        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLtK6SfHBR&sig=xfQGWf7S40gaZEZIeq7LoUinHjo"
     },
     {
         "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
@@ -122,7 +122,7 @@
     {
         "title": "A comprehensive secure system enabling healthcare 5.0 using federated learning, intrusion detection and blockchain",
         "year": 2024,
-        "citations": 48,
+        "citations": 49,
         "link": "https://peerj.com/articles/cs-1778/"
     },
     {
@@ -204,16 +204,16 @@
         "link": "https://www.mdpi.com/2078-2489/13/10/448"
     },
     {
+        "title": "Developing a blockchain-based digitally secured model for the educational sector in Saudi Arabia toward digital transformation",
+        "year": 2022,
+        "citations": 28,
+        "link": "https://peerj.com/articles/cs-1120/"
+    },
+    {
         "title": "URL Phishing Detection Using Particle Swarm Optimization and Data Mining.",
         "year": 2022,
         "citations": 27,
         "link": "https://www.researchgate.net/profile/Saeed-Alshahrani-7/publication/366987548_URL_Phishing_Detection_Using_Particle_Swarm_Optimization_and_Data_Mining/links/63bd3eec097c7832caa6a4b9/URL-Phishing-Detection-Using-Particle-Swarm-Optimization-and-Data-Mining.pdf"
-    },
-    {
-        "title": "Developing a blockchain-based digitally secured model for the educational sector in Saudi Arabia toward digital transformation",
-        "year": 2022,
-        "citations": 27,
-        "link": "https://peerj.com/articles/cs-1120/"
     },
     {
         "title": "Development of an artificially intelligent advising system for Saudi medical transcription",
