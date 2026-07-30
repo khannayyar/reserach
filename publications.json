@@ -24,6 +24,18 @@
         "link": "https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443444302000086"
     },
     {
+        "title": "AI-Driven Signal Processing for Single-Cell Data Analysis: A Case Study in Cancer Research",
+        "year": 2026,
+        "citations": 0,
+        "link": "https://link.springer.com/chapter/10.1007/978-3-032-19543-2_8"
+    },
+    {
+        "title": "A Secure Data Collaboration Framework Using Differential Partial AI and Federated Learning: Architecture, Simulation, and Performance Evaluation",
+        "year": 2026,
+        "citations": 0,
+        "link": "https://www.sciencedirect.com/science/article/pii/S1877050926015188"
+    },
+    {
         "title": "Challenges in docking accuracy and reproducibility",
         "year": 2026,
         "citations": 0,
@@ -48,16 +60,16 @@
         "link": "https://www.researchgate.net/profile/Mohammad-Ahmed-114/publication/389345824_Development_of_Intelligent_Student_Information_System/links/693447657e61d05b530c502c/Development-of-Intelligent-Student-Information-System.pdf"
     },
     {
+        "title": "An Application of Machine Learning, Big Data and IoT of Enterprise Architecture: Challenges, Solutions and Open Issues",
+        "year": 2025,
+        "citations": 13,
+        "link": "https://www.intechopen.com/chapters/1212262"
+    },
+    {
         "title": "Development of Intelligent Library Services for University Students",
         "year": 2025,
         "citations": 11,
         "link": "https://www.academia.edu/download/122550287/7299.pdf"
-    },
-    {
-        "title": "An Application of Machine Learning, Big Data and IoT of Enterprise Architecture: Challenges, Solutions and Open Issues",
-        "year": 2025,
-        "citations": 10,
-        "link": "https://www.intechopen.com/chapters/1212262"
     },
     {
         "title": "NAMAQ-Arabic handwriting recognition using deep learning, AI, and ML with sentiment analysis",
@@ -66,16 +78,16 @@
         "link": "https://ieeexplore.ieee.org/abstract/document/10989445/"
     },
     {
+        "title": "Complexities and Challenges for Securing Digital Assets and Infrastructure in Academia: A Review on Digital Asset Security",
+        "year": 2025,
+        "citations": 10,
+        "link": "https://www.igi-global.com/chapter/complexities-and-challenges-for-securing-digital-assets-and-infrastructure-in-academia/380297"
+    },
+    {
         "title": "Innovation in teaching and learning with the use of modern computational tools: A Post Covid experience",
         "year": 2025,
         "citations": 9,
         "link": "https://www.academia.edu/download/123829111/25408.pdf"
-    },
-    {
-        "title": "Complexities and Challenges for Securing Digital Assets and Infrastructure in Academia: A Review on Digital Asset Security",
-        "year": 2025,
-        "citations": 9,
-        "link": "https://www.igi-global.com/chapter/complexities-and-challenges-for-securing-digital-assets-and-infrastructure-in-academia/380297"
     },
     {
         "title": "Network intrusion management of web form spamming using blockchain",
@@ -129,7 +141,7 @@
         "title": "An Application of Machine Learning, Big Data, and IoT of Enterprise Architecture: Challenges",
         "year": 2025,
         "citations": 2,
-        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLtM6QhIDS&sig=4Y1ccjj3YJjaf3TQVnHoJJad9B8"
+        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLtO3TbLAM&sig=fy0DmHpR1u8Yvt8Ile896wqeh00"
     },
     {
         "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
@@ -146,7 +158,7 @@
     {
         "title": "Integrating artificial bee colony algorithms for deep learning model optimization: a comprehensive review",
         "year": 2024,
-        "citations": 20,
+        "citations": 21,
         "link": "https://link.springer.com/chapter/10.1007/978-981-97-7344-2_5"
     },
     {
@@ -218,13 +230,13 @@
     {
         "title": "Enabling blockchain with IoMT devices for healthcare",
         "year": 2022,
-        "citations": 84,
+        "citations": 86,
         "link": "https://www.mdpi.com/2078-2489/13/10/448"
     },
     {
         "title": "Developing a blockchain-based digitally secured model for the educational sector in Saudi Arabia toward digital transformation",
         "year": 2022,
-        "citations": 29,
+        "citations": 30,
         "link": "https://peerj.com/articles/cs-1120/"
     },
     {
@@ -240,16 +252,16 @@
         "link": "https://iijsr.com/data/uploads/94796.pdf"
     },
     {
+        "title": "Developing a blockchain-based digitally secured model for the educational sector in Saudi Arabia toward digital transformation. PeerJ Computer Science, 8: e1120",
+        "year": 2022,
+        "citations": 12,
+        "link": "https://scholar.google.com/scholar?cluster=5427075502810586005&hl=en&oi=scholarr"
+    },
+    {
         "title": "Computational intelligence",
         "year": 2022,
         "citations": 12,
         "link": "https://link.springer.com/content/pdf/10.1007/978-981-19-7346-8.pdf"
-    },
-    {
-        "title": "Developing a blockchain-based digitally secured model for the educational sector in Saudi Arabia toward digital transformation. PeerJ Computer Science, 8: e1120",
-        "year": 2022,
-        "citations": 11,
-        "link": "https://scholar.google.com/scholar?cluster=5427075502810586005&hl=en&oi=scholarr"
     },
     {
         "title": "WATER BOTTLE WITH DIGITAL WALLET",
@@ -260,7 +272,7 @@
     {
         "title": "Development of intelligent alumni management system for universities",
         "year": 2021,
-        "citations": 26,
+        "citations": 27,
         "link": "https://www.academia.edu/download/68080363/77626_1_.pdf"
     },
     {
@@ -396,10 +408,10 @@
         "link": "https://www.researchgate.net/profile/Mobarak-Hassan-2/publication/338109129_Managing_Data_Replication_in_Mobile_Ad-Hoc_Network_Databases_Using_Content_Based_Energy_Optimization/links/5dff4faa92851c8364910278/Managing-Data-Replication-in-Mobile-Ad-Hoc-Network-Databases-Using-Content-Based-Energy-Optimization.pdf"
     },
     {
-        "title": "Cyber Forensics and Proposed Techniques to Overcome Cyber Threats for Cyber Security",
+        "title": "Cyber forensics and proposed techniques to overcome cyber threats for cyber security",
         "year": 2015,
         "citations": 10,
-        "link": "https://scholar.google.com/scholar?cluster=16846483700191024727&hl=en&oi=scholarr"
+        "link": "https://addtest.indianjournals.com/article/ijemr-5-5-036"
     },
     {
         "title": "Simulation analysis of directed diffusion and SPIN routing protocol in wireless sensor network",
@@ -414,16 +426,16 @@
         "link": "https://scholar.google.com/scholar?cluster=9990779343671633669&hl=en&oi=scholarr"
     },
     {
-        "title": "Cloud Computing: The Future of Cost Effective and Enterprise Friendly Computing",
-        "year": 0,
-        "citations": 1,
-        "link": "https://www.academia.edu/download/59450681/cloud-computing-the-future-of-cost-effective-and-enterprise-friendly-computing-IJERTV6IS12005220190530-125443-r3jb33.pdf"
-    },
-    {
         "title": "Research Article Design and Verification of Cache Coherence Protocol",
         "year": 0,
         "citations": 0,
         "link": "https://mejast.com/data/uploads/pdf/2001.pdf"
+    },
+    {
+        "title": "Cloud Computing: The Future of Cost Effective and Enterprise Friendly Computing",
+        "year": 0,
+        "citations": 0,
+        "link": "https://www.academia.edu/download/59450681/cloud-computing-the-future-of-cost-effective-and-enterprise-friendly-computing-IJERTV6IS12005220190530-125443-r3jb33.pdf"
     },
     {
         "title": "BLUEWEB SECURITY SYSTEM",
