@@ -33,25 +33,25 @@
         "title": "Disruption Forecasting: A Comprehensive Review and Implementation Framework",
         "year": 2026,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=VioAEgAAQBAJ&oi=fnd&pg=PA29&dq=info:UjcQOGuJJd0J:scholar.google.com&ots=-Ul2AUUmwy&sig=BtpLAO38d__aA6PeUACoAWFHZ-Y"
+        "link": "https://books.google.com/books?hl=en&lr=&id=VioAEgAAQBAJ&oi=fnd&pg=PA29&dq=info:UjcQOGuJJd0J:scholar.google.com&ots=-Ul2EXWhDE&sig=w-2hrdbz4wxEHi_36UnR_F30K7w"
     },
     {
         "title": "Learning and Fuzzy Control",
         "year": 2026,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=VioAEgAAQBAJ&oi=fnd&pg=PA17&dq=info:cyQXN5R7K0kJ:scholar.google.com&ots=-Ul2AUUmwA&sig=pCIc2pkOybPFN27ZDfv_5Utmb_M"
+        "link": "https://books.google.com/books?hl=en&lr=&id=VioAEgAAQBAJ&oi=fnd&pg=PA17&dq=info:cyQXN5R7K0kJ:scholar.google.com&ots=-Ul2EXWhDF&sig=zpmVTcRWbZhBAgpa10A7pMoOytk"
     },
     {
         "title": "A Data-Driven Analysis of Online Learning Expectations: Perspectives",
         "year": 2026,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=VioAEgAAQBAJ&oi=fnd&pg=PA434&dq=info:KOhNmLlfI0cJ:scholar.google.com&ots=-Ul2AUUmwB&sig=Nu-iRXcvAuOsGgQtz4B19O7jWPQ"
+        "link": "https://books.google.com/books?hl=en&lr=&id=VioAEgAAQBAJ&oi=fnd&pg=PA434&dq=info:KOhNmLlfI0cJ:scholar.google.com&ots=-Ul2EXWhEx&sig=yqCQCXG8gu0Fc-_-nx-rjUP5Yqw"
     },
     {
         "title": "Design and Development",
         "year": 2026,
         "citations": 0,
-        "link": "https://books.google.com/books?hl=en&lr=&id=VioAEgAAQBAJ&oi=fnd&pg=PA266&dq=info:Rzm-FZ_zvCsJ:scholar.google.com&ots=-Ul2AUUmwD&sig=XsZOAlGCbUZi2cSr2h4Md_qNObs"
+        "link": "https://books.google.com/books?hl=en&lr=&id=VioAEgAAQBAJ&oi=fnd&pg=PA266&dq=info:Rzm-FZ_zvCsJ:scholar.google.com&ots=-Ul2EXWhEy&sig=wAyKcTBsRvbpxP42kkCYUYoV41E"
     },
     {
         "title": "AI-Driven Signal Processing for Single-Cell Data Analysis: A Case Study in Cancer Research",
@@ -110,7 +110,7 @@
     {
         "title": "Innovation in teaching and learning with the use of modern computational tools: A Post Covid experience",
         "year": 2025,
-        "citations": 9,
+        "citations": 10,
         "link": "https://mejast.com/data/uploads/25408.pdf"
     },
     {
@@ -171,7 +171,7 @@
         "title": "An application of machine learning, big data, and IoT of enterprise architecture: Challenges",
         "year": 2025,
         "citations": 2,
-        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLtQ-OaIER&sig=TvSPLRPi-zYk31dPC76VlE-LdG8"
+        "link": "https://books.google.com/books?hl=en&lr=&id=rXKGEQAAQBAJ&oi=fnd&pg=PA111&dq=info:iPFTCGNXuGAJ:scholar.google.com&ots=vLtQ3RcECN&sig=FiqOd5wiU8HswQHJTJQ7e97lH98"
     },
     {
         "title": "Learning Three-dimensional Face recognition from Sparse views for Robust Identity verification",
@@ -212,7 +212,7 @@
     {
         "title": "Integrating artificial bee colony algorithms for deep learning model optimization: a comprehensive review",
         "year": 2024,
-        "citations": 25,
+        "citations": 26,
         "link": "https://link.springer.com/chapter/10.1007/978-981-97-7344-2_5"
     },
     {
@@ -472,6 +472,12 @@
         "year": 2014,
         "citations": 13,
         "link": "https://ieeexplore.ieee.org/abstract/document/7056990/"
+    },
+    {
+        "title": "Advances in Smart Computing and Emerging Technologies",
+        "year": 0,
+        "citations": 0,
+        "link": "https://link.springer.com/content/pdf/10.1007/978-3-032-19160-1.pdf"
     },
     {
         "title": "Research Article Design and Verification of Cache Coherence Protocol",
